@@ -38,7 +38,7 @@ def run():
                             i.show = False
                     else:
                         clicked_animals += 1
-                if clicked_animals == 4:
+                if clicked_animals == len(sprites):
                     stop()
 
         screen.blit(bg, (0, -150))
