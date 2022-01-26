@@ -1,1 +1,1 @@
-open start_screen.py
+# open start_screen.py
