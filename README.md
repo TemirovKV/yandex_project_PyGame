@@ -1,1 +1,1 @@
-# yandex_project_PyGame
+open start_screen.py
